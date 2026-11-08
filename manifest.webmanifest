@@ -1,0 +1,1 @@
+{"name":"MyWeek — Calendario personal","short_name":"MyWeek","description":"Calendario semanal flexible con plantillas de día.","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f4f6fa","theme_color":"#111827","orientation":"portrait","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
